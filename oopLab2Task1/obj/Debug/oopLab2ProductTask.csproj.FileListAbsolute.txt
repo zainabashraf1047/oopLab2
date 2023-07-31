@@ -1,0 +1,7 @@
+D:\ooplab\oopLab2ProductTask\obj\Debug\oopLab2ProductTask.csproj.AssemblyReference.cache
+D:\ooplab\oopLab2ProductTask\obj\Debug\oopLab2ProductTask.csproj.CoreCompileInputs.cache
+D:\ooplab\oopLab2ProductTask\bin\Debug\oopLab2ProductTask.exe.config
+D:\ooplab\oopLab2ProductTask\bin\Debug\oopLab2ProductTask.exe
+D:\ooplab\oopLab2ProductTask\bin\Debug\oopLab2ProductTask.pdb
+D:\ooplab\oopLab2ProductTask\obj\Debug\oopLab2ProductTask.exe
+D:\ooplab\oopLab2ProductTask\obj\Debug\oopLab2ProductTask.pdb

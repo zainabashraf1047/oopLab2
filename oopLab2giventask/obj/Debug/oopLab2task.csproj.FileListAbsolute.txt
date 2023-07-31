@@ -1,0 +1,7 @@
+D:\ooplab\oopLab2task\bin\Debug\oopLab2task.exe.config
+D:\ooplab\oopLab2task\bin\Debug\oopLab2task.exe
+D:\ooplab\oopLab2task\bin\Debug\oopLab2task.pdb
+D:\ooplab\oopLab2task\obj\Debug\oopLab2task.csproj.AssemblyReference.cache
+D:\ooplab\oopLab2task\obj\Debug\oopLab2task.csproj.CoreCompileInputs.cache
+D:\ooplab\oopLab2task\obj\Debug\oopLab2task.exe
+D:\ooplab\oopLab2task\obj\Debug\oopLab2task.pdb
